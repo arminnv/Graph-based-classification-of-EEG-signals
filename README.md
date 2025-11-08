@@ -5,3 +5,5 @@ This repository contains the paper "Graph-Based Classification of EEG Signals in
 ## Overall flow of our proposed method
 
 ![alt text](https://github.com/arminnv/Graph-based-classification-of-EEG-signals/project_materials/Method.png?raw=true)
+
+
